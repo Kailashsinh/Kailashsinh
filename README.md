@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=3000&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi,+I'm+Kailash+Rajput!;Aspiring+AI/ML+Engineer+|+Java+%26+MERN+Developer+|;SDE)](https://git.io/typing-svg)
 
   <p>
-    <a href="https://www.linkedin.com/in/kailash-rajput-25">
+    <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/kailashsinh-rajput-b83147383">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:kailashsinhrajput25@gmail.com">
