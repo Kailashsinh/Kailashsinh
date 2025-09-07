@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/171402681?s=400&u=e6a8a27b52a1094763c7f2b4869275d8b62a88eb&v=4" alt="Kailash Rajput Logo" width="180" style="border-radius:50%; border:4px solid #3B82F6;" />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=3000&color=00FFCC&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi,+I'm+Kailash+Rajput!;AI/ML+Engineer+%26+Software+Innovator)](https://git.io/typing-svg)
+  <h1 style="color:#00FFCC;">Hey, I'm Kailash Rajput!</h1>
+  <p style="font-size:18px; color:#FFFFFF;">
+    Aspiring AI/ML Engineer | Software Development Engineer | Java & MERN Developer
+  </p>
 
   <p>
     <a href="https://www.linkedin.com/in/kailash-rajput-25" target="_blank">
@@ -68,8 +69,6 @@
 </div>
 
 > ✨ *“Life is like riding a bicycle. To keep your balance, you must keep moving.”* – Albert Einstein
-
-*(This section can be automated with GitHub Actions to fetch new quotes daily.)*
 
 ---
 
