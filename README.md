@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#00FFCC;">Hey, I'm Kailash Rajput!</h1>
+  <h1 style="color:#00FFCC;">Hey, I'm Kailashsinh Rajput!</h1>
   <p style="font-size:18px; color:#FFFFFF;">
     Software Development Engineer | Aspiring AI/ML Engineer | Java & MERN Developer
   </p>
