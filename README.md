@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/171402681?s=400&u=e6a8a27b52a1094763c7f2b4869275d8b62a88eb&v=4" alt="Kailash Rajput Logo" width="180" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=3000&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi,+I'm+Kailash+Rajput!;Aspiring+AI/ML+Engineer+|+Java+%26+MERN+Developer+|+SDE)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=3000&color=3B82F6&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi,+I'm+Kailash+Rajput!;Aspiring+AI/ML+Engineer+|+Java+%26+MERN+Developer+|;SDE)](https://git.io/typing-svg)
 
   <p>
     <a href="https://www.linkedin.com/in/kailash-rajput-25">
