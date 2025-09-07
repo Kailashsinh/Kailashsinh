@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color:#00FFCC;">Hey, I'm Kailash Rajput!</h1>
   <p style="font-size:18px; color:#FFFFFF;">
-    Aspiring AI/ML Engineer | Software Development Engineer | Java & MERN Developer
+    Software Development Engineer | Aspiring AI/ML Engineer | Java & MERN Developer
   </p>
 
   <p>
