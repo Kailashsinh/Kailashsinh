@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Kailash Rajput
 
-### Aspiring AI/ML Engineer | Java & MERN Developer
+### Aspiring AI/ML Engineer | Java & MERN Developer | Software Development Engineer 
 
 💻 I’m passionate about building intelligent systems and full-stack web applications.  
 🌱 Currently learning advanced AI/ML algorithms and improving React skills.  
 👯 Open to collaborating on AI/ML and Web Development projects.  
 💬 Ask me about Java, React, Node.js, or AI/ML.  
-📫 Reach me at: kailash@example.com  
+📫 Reach me at: kailashsinhrajput25@gmail.com 
 
 ---
 
